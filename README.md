@@ -1,7 +1,6 @@
 ### Hi Devs 👋
 <h1 align="center">I'm Muhammad Hamza Shabbir</h1>
-<p align="center"> <b><i>Change your work way, Every problem has a solution</i><b> <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/solution-1497192-1267401.png
-" alt="solution" /> </p>
+<p align="center"> <b><i>Change your work way, Every problem has a solution</i><b> <img src="https://cdn-icons-png.flaticon.com/512/4185/4185733.png" alt="solution" /> </p>
 
 <br>
 
