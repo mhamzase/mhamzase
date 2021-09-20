@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Android Developer**
 
-<!-- - 👨‍💻 Check my website : https://mzaryabrafique.live/ -->
+<!-- - 👨‍💻 Check my website : https://mhamzase.com/ -->
 
 
 <br>
@@ -19,11 +19,11 @@
 
 <span><a href="https://www.linkedin.com/in/mhamzase/" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://web.facebook.com/mhamzase/" ><img src="images/Facebook-logo.png" width="30" height="30" /></a>
+<a href="https://web.facebook.com/mhamzase/" ><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://www.instagram.com/haimiraj/" ><img src="images/insta.png" width="30" height="30" /></a>
+<a href="https://www.instagram.com/haimiraj/" ><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://www.youtube.com/channel/UCpuaOF3YbZ35yuinh4aDb-w" ><img src="images/youtube.png" width="32" height="32" /></a>
+<a href="https://www.youtube.com/channel/UCpuaOF3YbZ35yuinh4aDb-w" ><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="32" height="32" /></a>
 <span>
 
 <br>
