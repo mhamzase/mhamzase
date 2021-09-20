@@ -1,16 +1,16 @@
 ### Hi Devs 👋
-<h1 align="center">I am Muhammad Zaryab Rafique</h1>
-<p align="center"> <b><i>Change your work way, Every problem has a solution -- Zaryab</i><b> </p>
+<h1 align="center">I am Muhammad Hamza Shabbir</h1>
+<p align="center"> <b><i>Change your work way, Every problem has a solution</i><b> </p>
 
 <br>
 
-- 🔭 I’m currently working on **BLOCKCHAIN, SMART CONTRACTS, ANDROID (KOTLIN) and JETPACK COMPOSE**
+- 🔭 I’m currently working on **Laravel ( Livewire + AlpineJs )**
 
-- 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
+- 🌱 I’m currently learning **Laravel Advance Features**
 
-- 🤝 I’m looking for help with **BLOCKCHAIN DEVELOPER**
+- 🤝 I’m looking for help with **Android Developer**
 
-- 👨‍💻 Check my website : https://mzaryabrafique.live/
+<!-- - 👨‍💻 Check my website : https://mzaryabrafique.live/ -->
 
 
 <br>
