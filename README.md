@@ -38,5 +38,18 @@
 
 
 ### Top Tools & Languages <br>
-<img src="https://cdn.iconscout.com/icon/free/png-64/laravel-3521540-2944958.png" alt="laravel" width="30" height="30"/>g 
+<img src="https://cdn.iconscout.com/icon/free/png-64/laravel-3521540-2944958.png" alt="laravel" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/react-226053.png" alt="reactjs" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png" alt="firebase" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3628940-3030165.png" alt="mysql" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/html-3628838-3030115.png" alt="html5" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="css3" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="javascript" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png" alt="bootstrap" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png" alt="git" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/github-1521500-1288242.png" alt="github" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/bitbucket-3521305-2944724.png" alt="bitbucket" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/jira-3521518-2945021.png" alt="jira" width="30" height="30"/>
+<img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" alt="alpinejs" width="30" height="30"/>
   
