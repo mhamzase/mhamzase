@@ -17,20 +17,20 @@
 
 ### Connect me at here
 
-<span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a>
+<span><a href="https://www.linkedin.com/in/mhamzase/" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://web.facebook.com/Zaryab.Programmer/" ><img src="images/Facebook-logo.png" width="30" height="30" /></a>
+<a href="https://web.facebook.com/mhamzase/" ><img src="images/Facebook-logo.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://www.instagram.com/zaryab.programmer/" ><img src="images/insta.png" width="30" height="30" /></a>
+<a href="https://www.instagram.com/haimiraj/" ><img src="images/insta.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://www.youtube.com/channel/UC0OiPTc2sM8_DMZS6n2-6vQ" ><img src="images/youtube.png" width="32" height="32" /></a>
+<a href="https://www.youtube.com/channel/UCpuaOF3YbZ35yuinh4aDb-w" ><img src="images/youtube.png" width="32" height="32" /></a>
 <span>
 
 <br>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaryab-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="Zaryab-Programmer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaryab-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="mhamzase" /> </p>
 
-## Muhammad Zaryab Rafique's Github Stats
+## Muhammad Hamza Shabbir Github Stats
 
 <span> ![Zaryab's github stats](https://github-readme-stats.vercel.app/api?username=Zaryab-Programmer&theme=tokyonight&show_icons=true&count_private=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-Programmer&theme=tokyonight&show=csharp)</span>
