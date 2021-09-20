@@ -28,7 +28,7 @@
 
 <br>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaryab-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="mhamzase" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhamzase&label=Profile%20views&color=0e75b6&style=flat" alt="mhamzase" /> </p>
 
 ## Muhammad Hamza Shabbir Github Stats
 
