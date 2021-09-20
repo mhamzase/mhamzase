@@ -4,11 +4,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **Laravel ( Livewire + AlpineJs )**
+- 🔭 I’m currently working on **LARAVEL ( LIVEWIRE + ALPINE.JS )**
 
-- 🌱 I’m currently learning **Laravel Advance Features**
+- 🌱 I’m currently learning **LARAVEL ADVANCE FEATURES**
 
-- 🤝 I’m looking for help with **Android Developer**
+- 🤝 I’m looking for help with **ANDRIOD DEVELOPER**
 
 <!-- - 👨‍💻 Check my website : https://mhamzase.com/ -->
 
