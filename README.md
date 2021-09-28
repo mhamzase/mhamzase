@@ -1,5 +1,5 @@
 ### Hi Devs 👋
-<a href="https://ibb.co/9rbCGvS"><img src="https://i.ibb.co/gRSB67h/Git-Hub-Banner.png" width=100%" alt="Git-Hub-Banner" border="0"></a>
+<a href="https://ibb.co/9rbCGvS"><img src="https://i.ibb.co/gRSB67h/Git-Hub-Banner.png" width="100%" alt="Git-Hub-Banner" border="0"></a>
 <h1 align="center">I'm Muhammad Hamza Shabbir</h1>
 <p align="center"> <b><i>Change your work way, Every problem has a solution</i><b> <img src="https://cdn-icons-png.flaticon.com/512/4185/4185733.png" alt="solution" width="40" height="40" /> </p>
 
