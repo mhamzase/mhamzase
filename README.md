@@ -1,4 +1,4 @@
-<a href="https://ibb.co/Ss3DFYN"><img src="https://i.ibb.co/JBsWD6n/Git-Hub-Banner-1.png" width='100%' alt="Git-Hub-Banner-1" border="0"></a>
+<a href="https://ibb.co/fFxNHHS"><img src="https://i.ibb.co/H4HPqq2/Git-Hub-Banner-2.png" width='100%' alt="Git-Hub-Banner-2" border="0"></a>
 <h1 align="center">I'm Muhammad Hamza Shabbir</h1>
 <p align="center"> <b><i>Change your work way, Every problem has a solution</i><b> <img src="https://cdn-icons-png.flaticon.com/512/4185/4185733.png" alt="solution" width="40" height="40" /> </p>
 
