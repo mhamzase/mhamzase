@@ -4,13 +4,13 @@
 
 <br>
 
-- 🔭 I’m currently working on **LARAVEL ( LIVEWIRE + ALPINE.JS )**
+- 🔭 I’m currently working on **LARAVEL ( LIVEWIRE + ALPINE.JS ), REACT.JS,  API Integration & Testing**
 
-- 🌱 I’m currently learning **LARAVEL ADVANCE FEATURES**
+- 🌱 I’m currently learning **LARAVEL ADVANCE FEATURES + AUTOMATION**
 
-- 🤝 I’m looking for help with **ANDRIOD DEVELOPER**
-
-<!-- - 👨‍💻 Check my website : https://mhamzase.com/ -->
+- 🤝 I’m looking for **ONLINE PROJECTS**
+  
+- 👨‍💻 Future Learning **MERN DEVELOPMENT**
 
 
 <br>
