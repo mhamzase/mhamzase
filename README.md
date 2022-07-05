@@ -30,7 +30,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhamzase&label=Profile%20views&color=0e75b6&style=flat" alt="mhamzase" /> </p>
 
-## Muhammad Hamza Shabbir Github Stats
+## Hamza Github Stats
 
 <span> ![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhamzase&theme=tokyonight&show_icons=true&count_private=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzase&theme=tokyonight&show=csharp)</span>
