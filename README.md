@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **LARAVEL, REACT.JS and API Integration & Testing**
+- 🔭 I’m currently working on **LARAVEL, VUE.JS and API Integration & Testing**
 
 - 🌱 I’m currently learning **LARAVEL ADVANCE FEATURES + AUTOMATION**
 
