@@ -4,13 +4,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **LARAVEL, VUE.JS and API Integration & Testing**
-
-- 🌱 I’m currently learning **LARAVEL ADVANCE FEATURES + AUTOMATION**
+- 🔭 I’m working on **LARAVEL, VUE.JS, PYTHON and REST APIs**
 
 - 🤝 I’m looking for **ONLINE PROJECTS**
-  
-- 👨‍💻 Future Learning **MERN DEVELOPMENT**
 
 
 <br>
