@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Engineer & Team Lead</h3>
 
 <p align="center">
-<i>Every problem has a solution — I build the ones that scale.</i>
+<i>Every problem has a solution, and I build the ones that scale.</i>
 </p>
 
 <p align="center">
@@ -21,10 +21,13 @@
 
 <br>
 
-- 🔭 &nbsp;Architecting scalable, production-grade solutions with **Laravel, Vue.js, React.js, Python & REST APIs**
-- 🧭 &nbsp;7+ years across **full-stack development**, leading teams and owning delivery end-to-end
-- 🤝 &nbsp;Open to **senior-level freelance & remote engagements** — let's build something great
-- 📫 &nbsp;Reach me via LinkedIn or the channels below
+🔭 &nbsp;I build scalable, production-grade solutions with **Laravel, Vue.js, React.js, Python and REST APIs**.
+<br>
+🧭 &nbsp;7+ years in full-stack development, leading teams and owning delivery end to end.
+<br>
+🤝 &nbsp;Open to senior-level freelance and remote engagements. Let's build something great together.
+<br>
+📫 &nbsp;Reach me on LinkedIn or through the channels below.
 
 <br>
 
@@ -48,12 +51,11 @@
 
 ### 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=mhamzase&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Hamza's github stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzase&theme=tokyonight&hide_border=true" alt="Top Langs" width="38%" />
-</p>
+![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhamzase&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzase&theme=tokyonight&hide_border=true" alt="streak stats" width="49%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzase&theme=tokyonight&hide_border=true)
+
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mhamzase&theme=tokyonight&hide_border=true)
 
 <br><br>
 
