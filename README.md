@@ -34,15 +34,15 @@
 ### 🔗 Connect with me
 
 <p>
-<a href="https://www.linkedin.com/in/mhamzase/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" /></a>
+<a href="https://www.linkedin.com/in/mhamzase/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://web.facebook.com/mhamzase/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="30" height="30" /></a>
+<a href="https://web.facebook.com/mhamzase/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://www.instagram.com/haimiraj/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" height="30" /></a>
+<a href="https://www.instagram.com/haimiraj/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" height="30" /></a>
 &nbsp;
-<a href="https://www.youtube.com/channel/UCpuaOF3YbZ35yuinh4aDb-w" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="32" height="32" /></a>
+<a href="https://www.youtube.com/channel/UCpuaOF3YbZ35yuinh4aDb-w"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="32" height="32" /></a>
 &nbsp;
-<a href="https://wa.me/923042445911" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" height="30" /></a>
+<a href="https://wa.me/923042445911"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" height="30" /></a>
 </p>
 
 <p align="left">
@@ -66,28 +66,8 @@
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://cdn.iconscout.com/icon/free/png-64/laravel-3521540-2944958.png" alt="laravel" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/react-226053.png" alt="reactjs" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png" alt="firebase" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3628940-3030165.png" alt="mysql" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/html-3628838-3030115.png" alt="html5" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="css3" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="javascript" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png" alt="bootstrap" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png" alt="git" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/github-1521500-1288242.png" alt="github" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/bitbucket-3521305-2944724.png" alt="bitbucket" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/jira-3521518-2945021.png" alt="jira" width="30" height="30"/>
+<img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,html,css,js,bootstrap,git,github,bitbucket,jira,nodejs,ts,nextjs,nuxtjs,tailwind,python,docker,postman,vscode,redis" alt="tools and technologies" />
+&nbsp;
 <img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" alt="alpinejs" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-1174925.png" alt="nodejs" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="typescript" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nuxt-js.svg" alt="nuxtjs" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/python-1-226051.png" alt="python" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/docker-226091.png" alt="docker" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/postman-3437201-2871075.png" alt="postman" width="30" height="30"/>
-<img src="https://cdn.iconscout.com/icon/free/png-64/vscode-2752129-2285497.png" alt="vscode" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="30" height="30"/>
 </p>
