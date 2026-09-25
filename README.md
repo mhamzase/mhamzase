@@ -41,6 +41,8 @@
 <a href="https://www.instagram.com/haimiraj/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" height="30" /></a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCpuaOF3YbZ35yuinh4aDb-w" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="32" height="32" /></a>
+&nbsp;
+<a href="https://wa.me/923042445911" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" height="30" /></a>
 </p>
 
 <p align="left">
@@ -51,11 +53,13 @@
 
 ### 📊 GitHub Stats
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhamzase&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
+![Hamza's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mhamzase&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzase&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mhamzase&theme=tokyonight&hide_border=true)
 
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mhamzase&theme=tokyonight&hide_border=true)
+
+<sub>If a card still doesn't load, the widget service is temporarily rate-limited. It resolves on its own, the link above just doesn't need changing.</sub>
 
 <br><br>
 
@@ -76,4 +80,14 @@
 <img src="https://cdn.iconscout.com/icon/free/png-64/jira-3521518-2945021.png" alt="jira" width="30" height="30"/>
 <img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" alt="alpinejs" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-1174925.png" alt="nodejs" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="typescript" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nuxt-js.svg" alt="nuxtjs" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/python-1-226051.png" alt="python" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/docker-226091.png" alt="docker" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/postman-3437201-2871075.png" alt="postman" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-64/vscode-2752129-2285497.png" alt="vscode" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="30" height="30"/>
 </p>
