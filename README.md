@@ -53,21 +53,12 @@
 
 ### 📊 GitHub Stats
 
-![Hamza's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mhamzase&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mhamzase&theme=tokyonight&hide_border=true)
-
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mhamzase&theme=tokyonight&hide_border=true)
-
-<sub>If a card still doesn't load, the widget service is temporarily rate-limited. It resolves on its own, the link above just doesn't need changing.</sub>
 
 <br><br>
 
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,html,css,js,bootstrap,git,github,bitbucket,jira,nodejs,ts,nextjs,nuxtjs,tailwind,python,docker,postman,vscode,redis" alt="tools and technologies" />
-&nbsp;
-<img src="https://laravel-livewire.com/img/twitter.png" alt="livewire" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/alpinejs.svg" alt="alpinejs" width="30" height="30"/>
+<img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,html,css,js,bootstrap,git,github,bitbucket,nodejs,ts,nextjs,nuxtjs,tailwind,python,docker,postman,vscode,redis,alpinejs&perline=11" alt="tools and technologies" />
 </p>
