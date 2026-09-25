@@ -4,9 +4,8 @@
 
 <br>
 
-- 🔭 I’m working on **LARAVEL, VUE.JS, PYTHON and REST APIs**
-
-- 🤝 I’m looking for **ONLINE PROJECTS**
+- 🔭 Architecting scalable solutions with **Laravel, Vue.js, React.js, Python & REST APIs**
+- 🤝 Open to **freelance & remote engagements** — let's build something great
 
 
 <br>
