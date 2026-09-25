@@ -60,5 +60,5 @@
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,html,css,js,bootstrap,git,github,bitbucket,nodejs,ts,nextjs,nuxtjs,tailwind,python,docker,postman,vscode,redis,alpinejs&perline=11" alt="tools and technologies" />
+<img src="https://skillicons.dev/icons?i=laravel,react,firebase,mysql,html,css,js,bootstrap,git,github,bitbucket,nodejs,ts,nextjs,nuxtjs,tailwind,python,docker,postman,vscode,redis,alpinejs,postgres,aws,graphql,elasticsearch,linux,nginx,mongodb,express,vue,django,sqlite,redux,webpack,vite,supabase,figma,sass,vercel,netlify,heroku,prisma,xd,devops&perline=11" alt="tools and technologies" />
 </p>
